@@ -1,6 +1,9 @@
 
 
-body {background-color: blanchedalmond; font-family: 'Courier New', Courier, monospace;}
+body {
+    background-color: blanchedalmond; 
+    font-family: 'Courier New', Courier, monospace;
+}
 
 img { 
     display: inline-block;
@@ -9,5 +12,12 @@ img {
     padding: 12%;
   }
 
-h1 {color:black; text-align: center;}
-p {color:black; text-align: center;}
+h1 {
+    color:black; 
+    text-align: center;
+}
+
+p {
+    color:black; 
+    text-align: center;
+}
